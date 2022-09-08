@@ -1,0 +1,14 @@
+.ui.center.aligned.container {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+
+}
+
+body {
+    background: url('https://thumbs.dreamstime.com/z/notepad-page-textile-background-5159316.jpgy');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
